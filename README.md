@@ -6,13 +6,9 @@ Welcome to my Python course repository! This repository contains my notes, exerc
 
 ## 📚 Contents
 
-- `notes/`: Weekly learning notes and summaries.
+- `notes/`: Learning notes and summaries.
 - `exercises/`: Practice problems and coding challenges.
 - `projects/`: Python projects to apply concepts.
-
-## 📅 Started on: August 10, 2025
-
----
 
 Feel free to explore !!!
 
