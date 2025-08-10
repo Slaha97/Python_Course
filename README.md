@@ -8,7 +8,7 @@ https://www.udemy.com/course/complete-python-bootcamp/
 
 ## 📚 Contents
 
-- `notes/`: Learning notes and summaries.
+- `notes/`: Learning notes.
 - `exercises/`: Practice problems.
 - `projects/`: Python projects to apply concepts.
 
